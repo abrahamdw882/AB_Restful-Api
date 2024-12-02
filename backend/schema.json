@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "username": "Abraham",
+      "email": "abrahamdw@gmail.com",
+      "password": "abbot",
+      "authKey": "abraham"
+    }
+  ]
+}
